@@ -54,6 +54,7 @@ docs/_build/
 target/
 
 .DS_Store
+.vscode
 
 *.db
 *.log
